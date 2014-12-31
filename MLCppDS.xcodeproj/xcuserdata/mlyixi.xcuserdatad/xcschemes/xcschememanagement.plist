@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>MLCppDS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>MLHashTable.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>MLHeap.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>MLQueue.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>MLStack.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>689153751A5383500066366B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>689153831A5383C50066366B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>689153911A538B210066366B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6891539F1A538FDE0066366B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>689153AD1A53BDAF0066366B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
